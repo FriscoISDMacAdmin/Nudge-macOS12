@@ -16,8 +16,6 @@
     "aggressiveUserFullScreenExperience": false,
     "enforceMinorUpdates": true
   },
-    "enforceMinorUpdates": true
-  },
   "osVersionRequirements": [
     {
       "aboutUpdateURL_disabled": "https://support.apple.com/en-us/HT213257",
