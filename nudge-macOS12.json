@@ -87,7 +87,7 @@
         "mainContentHeader": "Your device will restart during this update",
         "mainContentNote": "Important Notes",
         "mainContentSubHeader": "Updates can take around 30 minutes to complete",
-        "mainContentText": "\n\nA security update is needed to adequately protect your device and the data stored on it. Click the More Info button for information about the update.\n\nYou may click the Not Now button to defer the update, but as the required installation date approaches, this message will appear more often and more persistently. Please update as soon as possible to avoid interruptions to your work. If you have any questions, please ask your campus' Area Tech or Digital Learning Coach.\n\nTo begin the update, simply click the Update Device button. The Software Update window will open. There, you can initiate the update.",
+        "mainContentText": "A security update is needed to adequately protect your device and the data stored on it. Click the More Info button for information about the update.\n\nYou may click the Not Now button to defer the update, but as the required installation date approaches, this message will appear more often and more persistently. Please update as soon as possible to avoid interruptions to your work. If you have any questions, please ask your campus' Area Tech or Digital Learning Coach.\n\nTo begin the update, simply click the Update Device button. The Software Update window will open. There, you can initiate the update.",
         "mainHeader": "Your MacBook requires a security update",
         "primaryQuitButtonText": "Not Now",
         "secondaryQuitButtonText": "I Understand",
